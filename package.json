@@ -1,0 +1,26 @@
+{
+  "name": "meboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rzak23/meboard.git"
+  },
+  "keywords": [
+    "template web"
+  ],
+  "author": "rzak23",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rzak23/meboard/issues"
+  },
+  "homepage": "https://github.com/rzak23/meboard#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1"
+  }
+}
